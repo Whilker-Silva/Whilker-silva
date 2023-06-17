@@ -1,8 +1,8 @@
 ## Oiii eu sou o Whilker, estudante de engenharia de controle automação!
 
 <div>
-    <img sytle="margin:auto" src="https://github-readme-stats.vercel.app/api?username=Whilker-silva&theme=transparent&hide=prs,contribs"/>
-    <img sytle="margin:auto"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whilker-silva&theme=transparent&layout=compact"/>
+    <img height="170em" width="60%" src="https://github-readme-stats.vercel.app/api?username=Whilker-silva&theme=transparent&hide=prs,contribs"/>
+    <img height="170em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whilker-silva&theme=transparent&layout=compact"/>
 </div>
 
 
