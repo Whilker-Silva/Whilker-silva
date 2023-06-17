@@ -1,7 +1,7 @@
 ## Oiii eu sou o Whilker, estudante de engenharia de controle automação!
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Whilker-silva&show_icons=true&theme=dracula&include_all_commits=true&cout_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Whilker-silva&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whilker-silva"/>
 </div>
 
